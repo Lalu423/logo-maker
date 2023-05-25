@@ -16,13 +16,17 @@
     The user needs to install Inquirer@8.2.4 and node.js
 
 ## Usage
-- [Click-for-video-guide](https://drive.google.com/file/d/1by6RnvZYNBp5OD_AJPOZ_MFgjUEBwi3S/view?usp=sharing)    
+- [Click-for-video-guide](https://drive.google.com/file/d/1by6RnvZYNBp5OD_AJPOZ_MFgjUEBwi3S/view?usp=sharing)  
+
+### Image sample
+
+<img src="" height="250" width="300"/>
 
 ## Contribution
-    This project was made possible by the help of Jili Jiang and Ramon Sanchez. They were my tutors during this project. 
+    This project was made possible with the help of Jili Jiang and Ramon Sanchez. They were my tutors during this project and provided a great deal of help. 
 
 ## Test
-    There is a trest provided for this project
+    There are 3 tests. One for each shape. 
 
 ## License
     The MIT License
