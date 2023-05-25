@@ -20,7 +20,7 @@
 
 ### Image sample
 
-<img src="" height="250" width="300"/>
+<img src="https://github.com/Lalu423/logo-maker/blob/main/examples/sample-shot.jpg" height="250" width="300"/>
 
 ## Contribution
     This project was made possible with the help of Jili Jiang and Ramon Sanchez. They were my tutors during this project and provided a great deal of help. 
