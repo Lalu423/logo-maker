@@ -10,7 +10,8 @@
 - [Questions](#questions)
 
 ## Description
-    The user will be able to generate a basic logo using node. They will input answers for a few questions and pick a shape from a list. 
+    The user will be able to generate a basic logo using node.
+    They will input answers for a few questions and pick a shape from a list. 
 
 ## Installation
     The user needs to install Inquirer@8.2.4 and node.js
@@ -23,7 +24,8 @@
 <img src="https://github.com/Lalu423/logo-maker/blob/main/examples/sample-shot.jpg" height="250" width="300"/>
 
 ## Contribution
-    This project was made possible with the help of Jili Jiang and Ramon Sanchez. They were my tutors during this project and provided a great deal of help. 
+    This project was made possible with the help of Jili Jiang and Ramon Sanchez. 
+    They were my tutors during this project and provided a great deal of help. 
 
 ## Test
     There are 3 tests. One for each shape. 
