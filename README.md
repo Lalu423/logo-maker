@@ -14,7 +14,7 @@
     They will input answers for a few questions and pick a shape from a list. 
 
 ## Installation
-    The user needs to install Inquirer@8.2.4, node.js and jest toi run the shape tests. 
+    The user needs to install Inquirer@8.2.4, node.js and jest to run the shape tests. 
 
 ## Usage
 - [Click-for-video-guide](https://drive.google.com/file/d/1by6RnvZYNBp5OD_AJPOZ_MFgjUEBwi3S/view?usp=sharing)  
