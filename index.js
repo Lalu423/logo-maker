@@ -1,8 +1,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const SVG = require('./node/SVG')
-
-const generateLogo = ({}) => ``;
+const Shape = require('./node/shapes')
 
 inquirer.prompt([
     {
@@ -33,7 +32,7 @@ inquirer.prompt([
    
     ])
     .then((answers) => {
-        //const logoContent = generateLogo(answers);
+        
 
 const newSVG = new SVG(answers.shape, answers.title, answers.shapeColor, answers.textColor)
         fs.writeFile('logo.svg', newSVG.render(), (err) =>
